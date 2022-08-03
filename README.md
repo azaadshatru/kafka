@@ -154,9 +154,9 @@ zookeeper-55b668879d-xc8vd      1/1     Running   0          35m
 ### Testing
 
 #### For Testing I used OffsetExplorer2.0 GUI tool
-![OffsetExplorer2.0](/kafka.jpg)
+![OffsetExplorer2.0](/Kafka.jpg)
 
 #### Once you are ready to push data to kafka topic, yuou can create new topic by right clicking on Topics. It will create default Partition 0 under Partitions. You can expand Partitions under Topic --> Select Data Tab and click Add Messages
 
-![OffsetExplorer2.0](/kafka2.jpg)
-![OffsetExplorer2.0](/kafka.jpg)
+![OffsetExplorer2.0](/Kafka2.jpg)
+
