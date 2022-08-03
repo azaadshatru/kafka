@@ -150,3 +150,7 @@ zookeeper-55b668879d-xc8vd      1/1     Running   0          35m
 ```
 
 #### I Prefer to use IP Address instead of kafka-broker hostname
+
+### Testing
+
+#### For Testing I used OffsetExplorer2.0 GUI tool
